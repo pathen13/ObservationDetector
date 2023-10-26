@@ -1,6 +1,6 @@
 import tkinter as tk
-import LCD_1in44
-import LCD_Config
+#import LCD_1in44
+#import LCD_Config
 # Funktionen, die aufgerufen werden, wenn die Buttons geklickt werden
 def button1_click():
     label.config(text="Button 1 wurde geklickt")
